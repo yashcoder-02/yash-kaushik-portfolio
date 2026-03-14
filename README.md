@@ -71,4 +71,6 @@ Python, Network Monitoring
 ## 📫 Contact
 
 Email: yash.kaushik23@st.niituniversity.in  
-LinkedIn: https://linkedin.com
+LinkedIn: www.linkedin.com/in/
+
+
